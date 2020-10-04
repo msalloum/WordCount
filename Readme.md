@@ -1,11 +1,3 @@
-<h1 align="center">
-  <a name="logo"><img src="https://github.com/CS-UCR/final-project-stockoverflow/blob/master/frontend/src/assets/logo.svg" width="400"></a>
-  <br>
-  KirbyUpB
-</h1>
-
-Team Members: Aditya Acharya, Eric Ong, Ji Hwan Kim, John Shin, Neal Goyal
-
 ## Table of Contents
 - [Overview](#overview)
 - [Usage](#usage)
@@ -18,7 +10,7 @@ Team Members: Aditya Acharya, Eric Ong, Ji Hwan Kim, John Shin, Neal Goyal
 <Include project description?
 
 ## Team
-<a href="https://github.com/msalloum" target="_blank"><img src="https://avatars3.githubusercontent.com/u/1790819?s=400&v=4"></a>
+<a href="https://github.com/msalloum" target="_blank"><img src="https://avatars3.githubusercontent.com/u/1790819?s=400&v=4" align="left" height="30px">Mariam Salloum </a>
 
 ## Usage
 Demo: <Link to youtube video>
